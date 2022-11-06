@@ -1,0 +1,33 @@
+# OSX generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Simulink Code Generation
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink cache files
+*.slxc
+
+# Session info
+octave-workspace
+
+# Simulink autosave extension
+.autosave
